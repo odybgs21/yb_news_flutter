@@ -6,16 +6,32 @@ Experience real-time news updates, infinite scrolling, and a seamless user exper
 ![App Screenshot](https://via.placeholder.com/800x400?text=YB+News+App+Demo)
 _(Replace this link with your actual screenshot)_
 
-## ✨ Features
+## ✨ Key Features
 
-- **📰 Fresh News Feed**: Stay updated with Top Headlines and Trending news.
-- **🔍 Explore & Search**: Find news by categories (Technology, Business, Sports, etc.) or specific keywords.
-- **♾️ Infinite Scroll**: Smoothly browse through endless articles on Home and Explore pages.
-- **🔖 Bookmarks**: Save articles to read later (stored locally).
-- **🔐 Authentication**: Complete Login, Sign Up, Forgot Password, and OTP Verification flows.
-- **📱 Responsive Design**: optimized for both Mobile and Web views.
-- **⚡ State Management**: Powered by **GetX** for high performance and reactive UI.
-- **🌐 Open API**: Utilizes [Saurav.tech NewsAPI](https://saurav.tech/NewsAPI/) (No API Key required).
+### � Advanced Authentication
+
+- **Secure Log In & Sign Up**: Complete validation for email and password.
+- **Forgot Password Flow**: Step-by-step recovery process including email input and reset password.
+- **OTP Verification**: Interactive 4-digit PIN input with countdown timer and resend functionality.
+
+### 📰 Smart News Discovery
+
+- **Trending & Latest**: Dedicated sections for breaking news and chronological updates.
+- **Topic Filtering**: Explore news by categories like _Technology, Business, Health, Science,_ and more.
+- **Real-time Search**: Instant filtering of articles by keyword on the Explore page.
+- **Infinite Scrolling**: Seamlessly load more articles as you scroll down on Home and Explore pages.
+
+### � User Personalization
+
+- **Bookmarks**: Save interesting articles locally to read later in the dedicated Bookmark tab.
+- **Comments System**: Interactive UI for viewing and posting comments (Mock implementation).
+- **Profile Management**: User profile overview.
+
+### 💻 Technical Highlights
+
+- **Clean Architecture**: Structured codebase separating Data, Domain, and Presentation layers.
+- **Responsive UI**: Adaptive layout that looks great on both Mobile phones and Web browsers.
+- **Optimized Performance**: Efficient state management using GetX controllers and bindings.
 
 ## 🛠️ Tech Stack
 
