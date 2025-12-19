@@ -3,9 +3,6 @@
 A modern, responsive News Application built with **Flutter** and **GetX**.
 Experience real-time news updates, infinite scrolling, and a seamless user experience across mobile and web platforms.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=YB+News+App+Demo)
-_(Replace this link with your actual screenshot)_
-
 ## ✨ Key Features
 
 ### � Advanced Authentication
